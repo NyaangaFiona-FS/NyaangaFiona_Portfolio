@@ -1,0 +1,22 @@
+body {
+    background-color: #FFF8DC;
+    font-family: 'Montserrat';
+}
+
+#nav-bar{
+    background-color: #5F9EA0;
+    color: white
+}
+
+#nav-bar a:hover {
+    color: tan;
+}
+
+#about-me {
+    color: #5F9EA0
+}
+
+#contact a{
+    text-decoration:underline;
+    color: #5F9EA0;
+}
